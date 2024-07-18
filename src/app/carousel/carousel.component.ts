@@ -15,9 +15,10 @@ export class CarouselComponent {
   constructor() {
     this.i = 0;
     this.slides = [
-      '/public/assets/p1.jpg',
-      'https://storage.googleapis.com/css-photos/menu-photos/1d2d5a63-1603-473b-9464-e8fa6787f40b.jpeg',
-      'https://ep01.epimg.net/elcomidista/imagenes/2022/01/11/receta/1641893642_902475_1641893828_noticia_normal.jpg',
+      'https://grievances.maharashtra.gov.in/uploads/banner/banner-1662614399.jpg',
+      'https://grievances.maharashtra.gov.in/uploads/banner/swarajya-2022-07-e74a3028-5a69-4077-90d9-d58f1abd4cfa-collage-maker-04-jul-2022-12-49-pm-1662615863.jpg',
+      'https://grievances.maharashtra.gov.in/uploads/banner/ministry-1691747257.png',
+      'https://grievances.maharashtra.gov.in/uploads/banner/xeknath-shinde18-1657185059-1662616001.jpg'
     ];
   }
   
