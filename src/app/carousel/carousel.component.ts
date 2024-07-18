@@ -15,7 +15,7 @@ export class CarouselComponent {
   constructor() {
     this.i = 0;
     this.slides = [
-      '/public/assets/p1.jpg',
+      '/p1.jpg',
       'https://storage.googleapis.com/css-photos/menu-photos/1d2d5a63-1603-473b-9464-e8fa6787f40b.jpeg',
       'https://ep01.epimg.net/elcomidista/imagenes/2022/01/11/receta/1641893642_902475_1641893828_noticia_normal.jpg',
     ];
